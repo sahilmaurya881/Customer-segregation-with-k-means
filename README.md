@@ -7,7 +7,7 @@ This project uses **KMeans clustering** to analyze a mall customer dataset, iden
 This analysis involves the following steps:
 
 1. **Data Loading and Preprocessing**:  
-   Clean and prepare the dataset by removing non-essential columns such as `CustomerID`.
+   Clean and prepare the dataset by removing non-essential columns such as CustomerID.
 
 2. **Exploratory Data Analysis (EDA)**:  
    - Visualize customer spending habits based on income and spending scores.
@@ -15,13 +15,13 @@ This analysis involves the following steps:
 
 3. **KMeans Clustering**:  
    - Apply the elbow method to identify the optimal number of clusters.
-   - Cluster customers based on `Annual Income` and `Spending Score`.
+   - Cluster customers based on Annual Income and Spending Score.
    - Visualize clusters with labeled centroids.
 
 ## 📂 Key Files
 
-- **`Mall_Customers.csv`**: The dataset containing customer demographic and spending information.
-- **`customer_segmentation.ipynb`**: Jupyter notebook containing all code for data analysis, visualization, and clustering.
+- **Mall_Customers.csv**: The dataset containing customer demographic and spending information.
+- **customer_segmentation.ipynb**: Jupyter notebook containing all code for data analysis, visualization, and clustering.
 
 ## 📚 Libraries Used
 
